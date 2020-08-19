@@ -4,17 +4,17 @@
 
 ### Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
-- List comprehensions and dictionary comprehensions
-- Combining strings and variables with fstrings
-- Saving and loading Python objects with pickle and json
+- [List comprehensions and dictionary comprehensions](https://github.com/nuitrcs/NextStepsInPython/tree/master/listComprehension)
+- [Combining strings and variables with fstrings](https://github.com/nuitrcs/NextStepsInPython/tree/master/fstrings)
+- [Saving and loading Python objects with pickle and json](https://github.com/nuitrcs/NextStepsInPython/tree/master/pickleJson)
 
 ### Objects and functions every Python coder should recognize
 These notebooks cover topics that you will encounter in other people's code.
-- Recognizing and indexing Numpy arrays
-- Lambda functions and when to use them
-- How to use functions with *args and **kwargs
+- [Recognizing and indexing NumPy arrays](https://github.com/nuitrcs/NextStepsInPython/tree/master/numpyArrays)
+- [Lambda functions and when to use them](https://github.com/nuitrcs/NextStepsInPython/tree/master/lambdas)
+- [How to use functions with \*args and \*\*kwargs](https://github.com/nuitrcs/NextStepsInPython/tree/master/argsKwargs)
 
 ### Specialized skills perfect for advanced beginning coders
-If you frequently work with text strings or pandas DataFrames:
-- Finding patterns in strings with built-in functions and the re package
-- Selecting and filtering data with pandas loc, iloc, at, and iat
+If you frequently work with text strings or Pandas DataFrames:
+- [Finding patterns in strings with built-in functions and the re package](https://github.com/nuitrcs/NextStepsInPython/tree/master/stringPatterns)
+- [Selecting and filtering data with Pandas loc, iloc, at, and iat](https://github.com/nuitrcs/NextStepsInPython/tree/master/pandasLoc)
