@@ -1,0 +1,15 @@
+gene02983.fa
+gene03837.fa
+gene09274.fa
+gene08434.fa
+gene02274.fa
+gene07262.fa
+gene06653.fa
+gene01635.fa
+gene05107.fa
+gene02939.fa
+protein07748.txt
+protein03625.txt
+gene08263.fa
+gene08825.fa
+gene07225.fa
