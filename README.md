@@ -1,8 +1,15 @@
 # Next Steps in Python
 
-<br><br>This is a series of self-guided Jupyter Notebooks, originally developed by Research Computing Services Data Scientist Colby Witherup Wood (GitHub: agithasnoname) for the Lunch Lessons workshop series. Designed for Python coders who have completed the Python Fundamentals workshop series or a similar beginning Python tutorial, these individual lessons cover the coding skills that answer the question, “What should I learn next?” These topics explore the shortcuts and tools that aren’t usually covered in Python intro level workshops, but that are regularly used by intermediate and advanced Python coders. Answer keys are included.
+<br><br>This is a series of Jupyter Notebooks, originally developed by Research Computing Services Lead Data Scientist Colby Witherup Wood (GitHub: agithasnoname) for the Lunch Lessons workshop series. Designed for Python coders who have completed the Python Fundamentals workshop series or a similar beginning Python tutorial, these individual lessons cover the coding skills that answer the question, “What should I learn next?” These topics explore the shortcuts and tools that aren’t usually covered in Python intro level workshops, but that are regularly used by intermediate and advanced Python coders. Answer keys are included.
+<br><br>Each GitHub repo can be downloaded to open the notebooks on your own computer, or the notebooks can be opened in Google Colab and run on the cloud.
 
-### Crucial skills for every Python coder 
+
+### <br><br>Notebooks and recording links for 2023-24 NSIP: Lunch Lessons
+Links to notebooks will be posted here the morning before each Lunch Lesson. Links to recordings will be posted here in the afternoon after each Lunch Lesson; the password to view recordings will only be sent to registered participants.
+
+
+
+### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
 - [List comprehensions and dictionary comprehensions](https://github.com/nuitrcs/NextStepsInPython/tree/master/listComprehension)
 - [Combining strings and variables with fstrings](https://github.com/nuitrcs/NextStepsInPython/tree/master/fstrings)
