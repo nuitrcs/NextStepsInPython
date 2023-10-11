@@ -7,6 +7,10 @@
 ### <br><br>Notebooks and recording links for 2023-24 NSIP: Lunch Lessons
 Links to notebooks will be posted here the morning before each Lunch Lesson. Links to recordings will be posted here in the afternoon after each Lunch Lesson; the password to view recordings will only be sent to registered participants.
 
+**October 11: Managing file paths with pathlib**
+<br>[Materials to work on your own computer](https://github.com/nuitrcs/filepaths) 
+<br>[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/filepaths/blob/main/filepaths.ipynb) 
+
 
 
 ### <br><br>Crucial skills for every Python coder 
