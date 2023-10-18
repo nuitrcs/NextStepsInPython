@@ -12,6 +12,9 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/filepaths/blob/main/filepaths.ipynb) 
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/4G8RcjcE4RY4lUKrO___n8ne8e6i0WqH0C2H0Lf_-C4qWnBsnWpEbj__i2kbXafv.lLGipFZKA9v4bsuo)
 
+<br>**October 18: Opening files from URLs**
+<br>[Materials to work on your own computer](https://github.com/nuitrcs/loadURLs)
+<br>[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/loadURLs/blob/main/loadUrls.ipynb)
 
 
 ### <br><br>Crucial skills for every Python coder 
