@@ -15,6 +15,7 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>**October 18: Opening files from URLs**
 <br>[Materials to work on your own computer](https://github.com/nuitrcs/loadURLs)
 <br>[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/loadURLs/blob/main/loadUrls.ipynb)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/F6Insbv7aaciyq1R736s4DyrY8xxsh-Vlfb9dgCaBSe3QEe_0QuCQMy-o0Qzi-1-.ovde5JHcZQxRuAQb)
 
 
 ### <br><br>Crucial skills for every Python coder 
