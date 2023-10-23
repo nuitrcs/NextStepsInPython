@@ -18,7 +18,7 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/F6Insbv7aaciyq1R736s4DyrY8xxsh-Vlfb9dgCaBSe3QEe_0QuCQMy-o0Qzi-1-.ovde5JHcZQxRuAQb)
 
 <br>**October 25: Level up your Pandas with `df.query` and `df.eval`**
-<br>[Materials to work on your own computer](https://github.com/nuitrcs/loadURLs)
+<br>[Materials to work on your own computer](https://github.com/nuitrcs/NextStepsInPython/tree/master/QueryEval)
 <br>[Link to work on the cloud](https://colab.research.google.com/drive/1g14PDOXsa-zIHERheX1G-S25dLdM6emZ?usp=sharing)
 
 ### <br><br>Crucial skills for every Python coder 
