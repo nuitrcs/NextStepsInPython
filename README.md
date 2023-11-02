@@ -25,6 +25,7 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>**November 1: Saving and using your custom functions**
 <br>[Materials to work on your own computer](https://github.com/nuitrcs/saveFunctions)
 <br>[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/saveFunctions/blob/main/saveFunctions.ipynb)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/3awuf6RxcTdJIY9G3G6JhU3ECoWTKibhsptghSoiRv-h5nRCEfypYn44nsclZ7Y.YGnb4UZBc9BADLVl)
 
 ### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
