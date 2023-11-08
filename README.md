@@ -30,6 +30,7 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>**November 8: Intro to creating your own object classes**
 <br>[Materials to work on your own computer](https://github.com/nuitrcs/objectClasses)
 <br>[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/objectClasses/blob/main/objectClasses.ipynb)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/BmtJeNZsMzrW5hZYMmJdtXSgdFAzR_vy0z-YCeNbLTkeVQQWLCNh3-5tB4VGs8mP.6576jI2ZNqJX4Czb)
 
 
 ### <br><br>Crucial skills for every Python coder 
