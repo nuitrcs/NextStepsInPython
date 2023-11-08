@@ -27,6 +27,11 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/saveFunctions/blob/main/saveFunctions.ipynb)
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/3awuf6RxcTdJIY9G3G6JhU3ECoWTKibhsptghSoiRv-h5nRCEfypYn44nsclZ7Y.YGnb4UZBc9BADLVl)
 
+<br>**November 8: Intro to creating your own object classes**
+<br>[Materials to work on your own computer](https://github.com/nuitrcs/objectClasses)
+<br>[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/objectClasses/blob/main/objectClasses.ipynb)
+
+
 ### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
 - [List comprehensions and dictionary comprehensions](https://github.com/nuitrcs/NextStepsInPython/tree/master/listComprehension)
