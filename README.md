@@ -36,6 +36,9 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>[Materials to work on your own computer](https://github.com/aGitHasNoName/listComprehension)
 <br>[Link to work on the cloud](https://colab.research.google.com/github/aGitHasNoName/listComprehension/blob/main/list.ipynb)
 
+<br>**January 10: Colormaps**
+<br>[Workshop materials](https://github.com/nuitrcs/colormaps)
+
 <br>**January 31: Intro to Plotly**
 <br>[Workshop matierals and installation instructions](https://github.com/nuitrcs/IntroToPlotly)
 
