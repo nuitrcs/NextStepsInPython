@@ -42,6 +42,7 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 
 <br>**January 17: NetworkX**
 <br>[Workshop Materials](https://github.com/nuitrcs/NetworkX)
+<br> [Link to recording](https://northwestern.zoom.us/rec/share/hHyTmVZ9o9GYwWdpS48yiPir-uQPE1S4ixPt7RnJjAUMrD2QCPS8F9crdeDZyjuh.Rc14wpydBpKP5Pmp4)
 
 <br>**January 31: Intro to Plotly**
 <br>[Workshop matierals and installation instructions](https://github.com/nuitrcs/IntroToPlotly)
