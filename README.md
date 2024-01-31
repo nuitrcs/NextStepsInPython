@@ -46,6 +46,7 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 
 <br>**January 31: Intro to Plotly**
 <br>[Workshop matierals and installation instructions](https://github.com/nuitrcs/IntroToPlotly)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/FhqyyMzcoxwI9wcKkLCLkc4QBC7ys_c9d2fAZb2r0a8jC38YRRPShT9e02ydCW3N.XKA1Rd5XU1IOWxVy)
 
 <br>**February 7: Intro to Shiny**
 <br>[Workshop matierals and installation instructions](https://github.com/nuitrcs/IntroToPyShiny)
