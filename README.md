@@ -50,6 +50,7 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 
 <br>**February 7: Intro to Shiny**
 <br>[Workshop matierals and installation instructions](https://github.com/nuitrcs/IntroToPyShiny)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/RpG1dag-vAqKwMKiU-o37NfQguGJzkCAL5qZr520r7N0fMT1RCIVQIFBBCGlCyxl.McR63Hh-6PZKsM0F)
 
 <br>**February 14: Intro to Quarto**
 <br>[Workshop matierals and installation instructions](https://github.com/nuitrcs/IntroToQuarto)
