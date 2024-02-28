@@ -58,6 +58,7 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 
 <br>**February 28: Mesa for Agent Based Modeling**
 <br>[Workshop materials](https://github.com/nuitrcs/Mesa)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/oAsB8DaTMtBPiPc2An-h6H2SgWp7eq5T5a0148wAt4ZQNXR7_RLqoC7WqL1AKZTA.SWB-oKOdo8JiV3kK)
 
 ### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
