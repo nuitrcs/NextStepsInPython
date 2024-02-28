@@ -53,8 +53,11 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/RpG1dag-vAqKwMKiU-o37NfQguGJzkCAL5qZr520r7N0fMT1RCIVQIFBBCGlCyxl.McR63Hh-6PZKsM0F)
 
 <br>**February 14: Intro to Quarto**
-<br>[Workshop matierals and installation instructions](https://github.com/nuitrcs/IntroToQuarto)
+<br>[Workshop materials and installation instructions](https://github.com/nuitrcs/IntroToQuarto)
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/xQfwAYissbv5ak--0JfI4NqyUYnTS1z-Cj2y0nagrX-eMkm89p6RCh1PitiuJdn9.5hXukDmDa0vBFwqu)
+
+<br>**February 28: Mesa for Agent Based Modeling**
+<br>[Workshop materials](https://github.com/nuitrcs/Mesa)
 
 ### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
