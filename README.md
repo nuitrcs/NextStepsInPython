@@ -60,6 +60,10 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>[Workshop materials](https://github.com/nuitrcs/Mesa)
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/oAsB8DaTMtBPiPc2An-h6H2SgWp7eq5T5a0148wAt4ZQNXR7_RLqoC7WqL1AKZTA.SWB-oKOdo8JiV3kK)
 
+<br>**March 6: Intro to Polars for large scale data analysis**
+<br>[Workshop materials](https://github.com/nuitrcs/NSIP-polars)
+
+
 ### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
 - [List comprehensions and dictionary comprehensions](https://github.com/nuitrcs/NextStepsInPython/tree/master/listComprehension)
