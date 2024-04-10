@@ -64,6 +64,10 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>[Workshop materials](https://github.com/nuitrcs/NSIP-polars)
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/wV9-nDuYsHZDkKAkZra4p0Hix3thVo8dSVHWLrTy8C7TFzShHLKqL7Y211KplnVK.72J5-Mc800-Gh3Uz)
 
+<br>**April 10: Bayesian Inference in STAN**
+<br>[Workshop materials](https://github.com/nuitrcs/bayesian_inference_stan)
+<br>[Lunk to recording]()
+
 
 ### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
