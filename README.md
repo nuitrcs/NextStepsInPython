@@ -66,8 +66,12 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 
 <br>**April 10: Bayesian Inference in STAN**
 <br>[Workshop materials](https://github.com/nuitrcs/bayesian_inference_stan)
-<br>[Lunk to recording]()
+<br>[Link to recording]()
 
+<br>**April 17: Creating Interactive Figures with Python + Bokeh**
+<br>[Workshop materials](https://github.com/nuitrcs/IntroToBokeh)
+<br>*Please note*: For this workshop, it will be best to work on your local computer, instead of Google Colab.  Please follow the installation instructions from the workshop materials (linked above).
+<br>[Link to recording]()
 
 ### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
