@@ -71,7 +71,7 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>**April 17: Creating Interactive Figures with Python + Bokeh**
 <br>[Workshop materials](https://github.com/nuitrcs/IntroToBokeh)
 <br>*Please note*: For this workshop, it will be best to work on your local computer, instead of Google Colab.  Please follow the installation instructions from the workshop materials (linked above).
-<br>[Link to recording]()
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/ft4NysmMoHWT8fMk2xN1OjDNLURkJzBg_g0Qu3B-RuWct6TvicprSH4w_S4XCbK0.Irfh3h_peaxGYOpY)
 
 ### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
