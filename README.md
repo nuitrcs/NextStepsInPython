@@ -66,7 +66,7 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 
 <br>**April 10: Bayesian Inference in STAN**
 <br>[Workshop materials](https://github.com/nuitrcs/bayesian_inference_stan)
-<br>[Link to recording]()
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/ft4NysmMoHWT8fMk2xN1OjDNLURkJzBg_g0Qu3B-RuWct6TvicprSH4w_S4XCbK0.Irfh3h_peaxGYOpY)
 
 <br>**April 17: Creating Interactive Figures with Python + Bokeh**
 <br>[Workshop materials](https://github.com/nuitrcs/IntroToBokeh)
