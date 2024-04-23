@@ -73,6 +73,10 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>*Please note*: For this workshop, it will be best to work on your local computer, instead of Google Colab.  Please follow the installation instructions from the workshop materials (linked above).
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/aTa07kzWzNHvW5QIZUrSowf7SOXFV82Hd-vbImfTuhwIcDCJXHJZMIw9i1oAjlmy.xX1wqShcohdBcFny)
 
+<br>**April 24: Statistics in Python: Statsmodels**
+<br>[Workshop materials](https://github.com/nuitrcs/statistics_in_python_statsmodels)
+
+
 ### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
 - [List comprehensions and dictionary comprehensions](https://github.com/nuitrcs/NextStepsInPython/tree/master/listComprehension)
