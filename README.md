@@ -75,6 +75,7 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 
 <br>**April 24: Statistics in Python: Statsmodels**
 <br>[Workshop materials](https://github.com/nuitrcs/statistics_in_python_statsmodels)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/uXiG1COxSncCqsYwIajdoloEX_J0esqY-NB805jg7yj9GJp2iTTB5xFSFGAHesJo.RE87gIvbll4fqJJH)
 
 
 ### <br><br>Crucial skills for every Python coder 
