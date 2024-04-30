@@ -77,6 +77,9 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>[Workshop materials](https://github.com/nuitrcs/statistics_in_python_statsmodels)
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/uXiG1COxSncCqsYwIajdoloEX_J0esqY-NB805jg7yj9GJp2iTTB5xFSFGAHesJo.RE87gIvbll4fqJJH)
 
+<br>**May 1: Efficient looping with Itertools**
+<br>[Workshop materials](https://github.com/nuitrcs/NSIP-itertools)
+
 
 ### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
