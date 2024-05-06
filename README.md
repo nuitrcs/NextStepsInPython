@@ -81,6 +81,9 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>[Workshop materials](https://github.com/nuitrcs/NSIP-itertools)
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/d-5mOzvm2mlZ6q5Lmsr4Kmg4fvHzad2t-9bzSUeZxtNNF-5SmUc3JpVVfIYbMIMV.6BNjNMJq4aDoS9mp)
 
+<br>**May 8: Intro to web scraping with Selenium**
+<br>[Workshop materials](https://github.com/nuitrcs/intro_to_web_scraping_selenium)
+<br>[Link to recording](TBD)
 
 ### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
