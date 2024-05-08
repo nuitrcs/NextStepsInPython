@@ -83,7 +83,7 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 
 <br>**May 8: Intro to web scraping with Selenium**
 <br>[Workshop materials](https://github.com/nuitrcs/intro_to_web_scraping_selenium)
-<br>[Link to recording](TBD)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/7COzAvRbPo1P5a4eElUHrF6FwcbzXisUVqopj423Ai1Ay2QhifAMrZDxm9Agx6xE.kCMfJuNvNNwmBfG1)
 
 ### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
