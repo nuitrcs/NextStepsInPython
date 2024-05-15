@@ -89,6 +89,10 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>[Workshop materials](https://github.com/nuitrcs/python_computing_distance)
 <br>[Link to recording](TBD)
 
+<br>**May 22: Parsing text with NLTK**
+<br>[Workshop materials](https://github.com/nuitrcs/parsing_text_nltk)
+<br>[Link to recording](TBD)
+
 ### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
 - [List comprehensions and dictionary comprehensions](https://github.com/nuitrcs/NextStepsInPython/tree/master/listComprehension)
