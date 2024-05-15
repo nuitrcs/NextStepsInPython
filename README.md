@@ -87,7 +87,7 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 
 <br>**May 15: Computing distance (or similarity) for different data types**
 <br>[Workshop materials](https://github.com/nuitrcs/python_computing_distance)
-<br>[Link to recording](TBD)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/VmsTJmax7vYKe3k3VPi1nxNbgEAxcUrwWFyjl7kNWZPiuyk9CK6ZllQba-0LVOXA.EkoFYwoXaJr6J6Bq)
 
 <br>**May 22: Parsing text with NLTK**
 <br>[Workshop materials](https://github.com/nuitrcs/parsing_text_nltk)
