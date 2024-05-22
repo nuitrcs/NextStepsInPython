@@ -91,7 +91,7 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 
 <br>**May 22: Parsing text with NLTK**
 <br>[Workshop materials](https://github.com/nuitrcs/parsing_text_nltk)
-<br>[Link to recording](TBD)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/uWrnAA5B4FtlAOXn_l-S5gCkO_UDvBFYT87_Yi6sKBXjxy8GUkA53f_dUn9MvfYv.dvm5FHc9MPSiSoG3)
 
 ### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
