@@ -1,10 +1,10 @@
 # Next Steps in Python
 
-This repo is the landing page for the Next Steps in R workshops offered by [Research Computing and Data Services](https://www.it.northwestern.edu/departments/it-services-support/research/).
+This repo is the landing page for the Next Steps in Python workshops offered by [Research Computing and Data Services](https://www.it.northwestern.edu/departments/it-services-support/research/).
 
 # Workshops offered
 
-Click on the workshops below to navigate to the linked GitHub repository. Each GitHub repo can be downloaded to open the notebooks on your own computer, or the notebooks can be opened in Google Colab and run on the cloud.
+Click on the workshops below to navigate to the linked GitHub repository.
 
 <details>
   <summary><b>Fall 2023</b></summary>
@@ -115,7 +115,17 @@ Click on the workshops below to navigate to the linked GitHub repository. Each G
 
 </details>
 
-### <br><br>Crucial skills for every Python coder 
+# Materials and Setup
+
+There are two ways to access the materials:
+1. On your own computer: Click on the green Code button above and choose Download ZIP. On your computer, open either Jupyter Lab or Jupyter Notebook. Navigate to the folder you downloaded and open up the notebook of choice.
+2. Online: Go to [http://colab.research.google.com/](http://colab.research.google.com/). Choose GitHub from the orange menu. Search for NUITRCS/NextStepsInPython and select your notebook of choice.
+
+# Zoom Recordings
+
+Please sign in to your Northwestern Zoom account in order to view the recordings. These are password-protected and only registered participants of the workshop will have access. Recordings are only available for 30 days from the listed date.
+
+# Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
 - [List comprehensions and dictionary comprehensions](https://github.com/nuitrcs/NextStepsInPython/tree/master/listComprehension)
 - [Combining strings and variables with fstrings](https://github.com/nuitrcs/NextStepsInPython/tree/master/fstrings)
@@ -131,8 +141,3 @@ These notebooks cover topics that you will encounter in other people's code.
 If you frequently work with text strings or Pandas DataFrames:
 - [Finding patterns in strings with built-in functions and the re package](https://github.com/nuitrcs/NextStepsInPython/tree/master/stringPatterns)
 - [Selecting and filtering data with Pandas loc, iloc, at, and iat](https://github.com/nuitrcs/NextStepsInPython/tree/master/pandasLoc)
-
-## To use the notebooks
-There are two ways to access the materials:
-1. On your own computer: If you have the Anaconda distribution of Python 3, you should have all the packages needed for these notebooks. Click on the green Code button above and choose Download ZIP. On your computer, open up Anaconda Navigator and choose either Jupyter Lab or Jupyter Notebook. Navigate to the folder you downloaded and open up the notebook of choice.
-2. Online: Go to http://colab.research.google.com/. Choose GitHub from the orange menu. Search for NUITRCS/NextStepsInPython and select your notebook of choice.
