@@ -1,12 +1,15 @@
 # Next Steps in Python
 
-<br><br>This is a series of Jupyter Notebooks, originally developed by Research Computing Services Lead Data Scientist Colby Witherup Wood (GitHub: agithasnoname) for the Lunch Lessons workshop series. Designed for Python coders who have completed the Python Fundamentals workshop series or a similar beginning Python tutorial, these individual lessons cover the coding skills that answer the question, “What should I learn next?” These topics explore the shortcuts and tools that aren’t usually covered in Python intro level workshops, but that are regularly used by intermediate and advanced Python coders. Answer keys are included.
-<br><br>Each GitHub repo can be downloaded to open the notebooks on your own computer, or the notebooks can be opened in Google Colab and run on the cloud.
+This repo is the landing page for the Next Steps in R workshops offered by [Research Computing and Data Services](https://www.it.northwestern.edu/departments/it-services-support/research/).
 
+# Workshops offered
 
-### <br><br>Notebooks and recording links for 2023-24 NSIP: Lunch Lessons
-Links to notebooks will be posted here the morning before each Lunch Lesson. Links to recordings will be posted here in the afternoon after each Lunch Lesson; the password to view recordings will only be sent to registered participants by email.
+Click on the workshops below to navigate to the linked GitHub repository. Each GitHub repo can be downloaded to open the notebooks on your own computer, or the notebooks can be opened in Google Colab and run on the cloud.
 
+<details>
+  <summary><b>Fall 2023</b></summary>
+
+  ###
 **October 11: Managing file paths with pathlib**
 <br>[Materials to work on your own computer](https://github.com/nuitrcs/filepaths) 
 <br>[Link to work on the cloud](https://colab.research.google.com/github/nuitrcs/filepaths/blob/main/filepaths.ipynb) 
@@ -35,7 +38,12 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>**November 15: List comprehensions**
 <br>[Materials to work on your own computer](https://github.com/aGitHasNoName/listComprehension)
 <br>[Link to work on the cloud](https://colab.research.google.com/github/aGitHasNoName/listComprehension/blob/main/list.ipynb)
+</details>
 
+<details>
+  <summary><b>Winter 2024</b></summary>
+
+  ###
 <br>**January 10: Colormaps**
 <br>[Workshop materials](https://github.com/nuitrcs/colormaps)
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/7hrK0aR4Gl3YBFgafbTWYxi-2yNQ5nVyiEoNXtD_vaT2SnMAucJpOM2GH7djwnTo.qnV3fiSFddrgoFHj)
@@ -63,7 +71,12 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>**March 6: Intro to Polars for large scale data analysis**
 <br>[Workshop materials](https://github.com/nuitrcs/NSIP-polars)
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/wV9-nDuYsHZDkKAkZra4p0Hix3thVo8dSVHWLrTy8C7TFzShHLKqL7Y211KplnVK.72J5-Mc800-Gh3Uz)
+</details>
 
+<details>
+  <summary><b>Spring 2024</b></summary>
+
+  ###
 <br>**April 10: Bayesian Inference in STAN**
 <br>[Workshop materials](https://github.com/nuitrcs/bayesian_inference_stan)
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/ft4NysmMoHWT8fMk2xN1OjDNLURkJzBg_g0Qu3B-RuWct6TvicprSH4w_S4XCbK0.Irfh3h_peaxGYOpY)
@@ -92,6 +105,15 @@ Links to notebooks will be posted here the morning before each Lunch Lesson. Lin
 <br>**May 22: Parsing text with NLTK**
 <br>[Workshop materials](https://github.com/nuitrcs/parsing_text_nltk)
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/uWrnAA5B4FtlAOXn_l-S5gCkO_UDvBFYT87_Yi6sKBXjxy8GUkA53f_dUn9MvfYv.dvm5FHc9MPSiSoG3)
+</details>
+
+<details open>
+  <summary><b>Fall 2024</b></summary>
+
+  ###
+
+
+</details>
 
 ### <br><br>Crucial skills for every Python coder 
 These notebooks will teach you to write more efficient code.
