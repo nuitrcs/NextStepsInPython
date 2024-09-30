@@ -113,6 +113,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
    ###
 <br>**September 30: NumPy 2.0.0 Is Here. What Does That Mean?**
 <br>[Workshop materials](https://github.com/nuitrcs/nsip-numpy-2.0)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/4uIelqFHpvVblqZSRuukYxApWH78FMDVQ27jdO1xnvo6goKL7wGP8EHN-7bU4vFl.L41_p135iGPd62d_)
 
 
   
