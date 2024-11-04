@@ -115,7 +115,9 @@ Click on the workshops below to navigate to the linked GitHub repository.
 <br>[Workshop materials](https://github.com/nuitrcs/nsip-numpy-2.0)
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/4uIelqFHpvVblqZSRuukYxApWH78FMDVQ27jdO1xnvo6goKL7wGP8EHN-7bU4vFl.L41_p135iGPd62d_)
 
-
+<br>**November 4: Virtual Environments**
+<br>[Workshop materials](https://github.com/nuitrcs/IntroToConda)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/sbeYhmY74XxnAlxtV-7LEx5-44U_-9iwbW-becJS6KE7S3RIxltHe3dtzf7RmOvq._D9cb7lcUBiMcDa4)
   
 
   ###
