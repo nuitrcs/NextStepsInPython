@@ -107,7 +107,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/uWrnAA5B4FtlAOXn_l-S5gCkO_UDvBFYT87_Yi6sKBXjxy8GUkA53f_dUn9MvfYv.dvm5FHc9MPSiSoG3)
 </details>
 
-<details open>
+<details>
   <summary><b>Fall 2024</b></summary>
 
    ###
@@ -122,6 +122,16 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
   ###
 
+</details>
+
+<details open>
+  <summary><b>Winter 2025</b></summary>
+
+   ###
+<br>**January 13: Statistics in Python: Statsmodels**
+<br>[Workshop materials](https://github.com/nuitrcs/statistics_in_python_statsmodels)
+
+  ###
 
 </details>
 
