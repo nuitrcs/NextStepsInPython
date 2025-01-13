@@ -130,6 +130,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
    ###
 <br>**January 13: Statistics in Python: Statsmodels**
 <br>[Workshop materials](https://github.com/nuitrcs/statistics_in_python_statsmodels)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/tslneSOZXQ9dhhkMrGsCQWmIQi_G-0GnUbG2t_B0-0LjrEG4y1ofirE-wTlDiZzH.ZtLLYL2hxepIjcQm)
 
   ###
 
