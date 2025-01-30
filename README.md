@@ -132,6 +132,9 @@ Click on the workshops below to navigate to the linked GitHub repository.
 <br>[Workshop materials](https://github.com/nuitrcs/statistics_in_python_statsmodels)
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/tslneSOZXQ9dhhkMrGsCQWmIQi_G-0GnUbG2t_B0-0LjrEG4y1ofirE-wTlDiZzH.ZtLLYL2hxepIjcQm)
 
+<br>**February 3: Scikit-Learn Pipelines**
+<br>[Workshop materials](https://github.com/nuitrcs/sklearn_pipelines)
+
   ###
 
 </details>
