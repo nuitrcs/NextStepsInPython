@@ -136,6 +136,9 @@ Click on the workshops below to navigate to the linked GitHub repository.
 <br>[Workshop materials](https://github.com/nuitrcs/sklearn_pipelines)
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/bLYlyKbiktXBPZV69CSM1_dyUPw5sR6QSwsobmv2NjeMBJSePM-o9sRZHK80Ep73.fIPFgi2bH0q24lzE)
 
+<br>**March 3: Bayesian Inference in STAN**
+<br>[Workshop materials](https://github.com/nuitrcs/bayesian_inference_stan/)
+
   ###
 
 </details>
