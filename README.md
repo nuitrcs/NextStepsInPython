@@ -138,6 +138,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 <br>**March 3: Bayesian Inference in STAN**
 <br>[Workshop materials](https://github.com/nuitrcs/bayesian_inference_stan/)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/aW93Ecp27LWPeUp3lchdS-pM92-zANB8VD8P9WHEU3vPFyB5ps3Oj8n1nnldUnJd.wdFk6z-MB-VnWtcJ)
 
   ###
 
