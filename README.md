@@ -124,7 +124,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
-<details open>
+<details>
   <summary><b>Winter 2025</b></summary>
 
    ###
@@ -143,6 +143,18 @@ Click on the workshops below to navigate to the linked GitHub repository.
   ###
 
 </details>
+
+<details open>
+  <summary><b>Spring 2025</b></summary>
+  
+   ###
+<br>**May 5: Test your code with Pytest**
+<br>[Workshop materials](https://github.com/nuitrcs/testing_with_pytest)
+
+
+
+  ###
+  </details>
 
 # Materials and Setup
 
