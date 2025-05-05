@@ -148,10 +148,9 @@ Click on the workshops below to navigate to the linked GitHub repository.
   <summary><b>Spring 2025</b></summary>
   
    ###
-<br>**May 5: Test your code with Pytest**
+<br>**May 5: Why and How to Test Your Code**
 <br>[Workshop materials](https://github.com/nuitrcs/testing_with_pytest)
-<br>
-<br>
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/_zXlU6qJCJr3GQqLhJ1MyVblS8cHNFsGHKXbydmNZsyNFfs2vtulEGODRSAzsiW3.s5tfVqKbigxYXPgi)
 
 
   ###
