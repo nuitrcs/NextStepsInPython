@@ -152,6 +152,9 @@ Click on the workshops below to navigate to the linked GitHub repository.
 <br>[Workshop materials](https://github.com/nuitrcs/testing_with_pytest)
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/_zXlU6qJCJr3GQqLhJ1MyVblS8cHNFsGHKXbydmNZsyNFfs2vtulEGODRSAzsiW3.s5tfVqKbigxYXPgi)
 
+<br>**June 2: Sentiment Analysis of Text Data**
+<br>[Workshop materials](https://github.com/nuitrcs/sentiment_analysis)
+
 
   ###
   </details>
