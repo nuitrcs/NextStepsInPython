@@ -154,6 +154,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 <br>**June 2: Sentiment Analysis of Text Data**
 <br>[Workshop materials](https://github.com/nuitrcs/sentiment_analysis)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/sHnLI4Jmel-6tdidl7BlgjI54uKb5nbpZx1SITARugttPQbiekHKttN8ch7IhSq5.yEZBm7za3cNDeo7L)
 
 
   ###
