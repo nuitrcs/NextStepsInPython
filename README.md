@@ -144,7 +144,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
 </details>
 
-<details open>
+<details>
   <summary><b>Spring 2025</b></summary>
   
    ###
@@ -156,6 +156,17 @@ Click on the workshops below to navigate to the linked GitHub repository.
 <br>[Workshop materials](https://github.com/nuitrcs/sentiment_analysis)
 <br>[Link to recording](https://northwestern.zoom.us/rec/share/sHnLI4Jmel-6tdidl7BlgjI54uKb5nbpZx1SITARugttPQbiekHKttN8ch7IhSq5.yEZBm7za3cNDeo7L)
 
+
+  ###
+  </details>
+
+<details open>
+  <summary><b>Fall 2025</b></summary>
+  
+   ###
+<br>**October 14: \*args and \*\*kwargs**
+<br>[Workshop materials](https://github.com/nuitrcs/NextStepsInPython/tree/master/argsKwargs)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/gYRprPmKU5lo8S8V1IiPjzcZeD1df6dggMlN1wLKqvgPV0LQjZxet36EfzeDh8Oi.T30ty3c2fuqguTxM)
 
   ###
   </details>
