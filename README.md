@@ -160,7 +160,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
   ###
   </details>
 
-<details open>
+<details>
   <summary><b>Fall 2025</b></summary>
   
    ###
@@ -170,6 +170,16 @@ Click on the workshops below to navigate to the linked GitHub repository.
 
   ###
   </details>
+
+<details open>
+  <summary><b>Winter 2025</b></summary>
+  
+   ###
+<br>**January 12: Introduction to Object Classes**
+<br>[Workshop materials](https://github.com/nuitrcs/objectClasses)
+
+  ###
+</details>
 
 # Materials and Setup
 
