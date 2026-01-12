@@ -177,6 +177,7 @@ Click on the workshops below to navigate to the linked GitHub repository.
    ###
 <br>**January 12: Introduction to Object Classes**
 <br>[Workshop materials](https://github.com/nuitrcs/objectClasses)
+<br>[Link to recording](https://northwestern.zoom.us/rec/share/CbjhJmQ8TQwGZl0lnhhHrg1T9oiQyPKsIdhDe2ljEwUUefSmzM5blpG2Os5MT5Am.BKucwA7eF8podfGk)
 
   ###
 </details>
